@@ -6,7 +6,7 @@ The purpose behind creating this app was to further my skills as a software engi
 
 To see a demonstration of the app's functionality and a walkthrough of the code, please check out the following YouTube video:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=6y9-LhzxuiE)
 
 # Development Environment
 

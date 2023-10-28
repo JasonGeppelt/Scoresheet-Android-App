@@ -1,6 +1,6 @@
 # Overview
 
-I've developed a score-tracking app named "Skull King Score Sheet" that allows users to manage scores for a game involving six players. 
+I've developed a score-tracking app that allows users to manage scores for a game involving six players. 
 
 The purpose behind creating this app was to further my skills as a software engineer, particularly in Android app development using Jetpack Compose. This project aimed to enhance my understanding of state management within Compose and integrating persistent data storage using SharedPreferences in Android apps.
 
@@ -18,7 +18,6 @@ The app was developed using the following tools and languages:
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Jetpack Compose Guide](https://developer.android.com/jetpack/compose)
 * [SharedPreferences Documentation](https://developer.android.com/reference/kotlin/android/content/SharedPreferences)
 
